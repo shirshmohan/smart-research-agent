@@ -6,7 +6,10 @@ An intelligent agent that can summarize PDFs, search the web, rank sources by cr
 - 📄 PDF Summarization
 - 🌐 Web Search + Ranking
 - 🧠 LLM-Powered Tool Usage
+-  📃 Document comparer
 - 🧰 Tool chaining via LangGraph
+- - 🧠 **Session Memory (ChromaDB-based):** Stores chat history for each session using vector embeddings, enabling context-aware conversations.
+
 
 ## Setup
 
@@ -29,5 +32,4 @@ An intelligent agent that can summarize PDFs, search the web, rank sources by cr
 ## Upcoming
 - 📺 YouTube summarizer
 - 📊 CSV analyzer
-- 📃 Document comparer
 - 🖥️ React + FastAPI frontend
