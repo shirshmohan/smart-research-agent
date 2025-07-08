@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.venv/
+env/
+venv/
+
+# IDEs
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Secrets
+.env
+*.key
+*.pem
+
+# VS Code
+*.code-workspace
+
+# Other
+*.sqlite
+*.log
